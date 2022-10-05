@@ -1,0 +1,15 @@
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\bin\Debug\net6.0\InfiCli.exe
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\bin\Debug\net6.0\InfiCli.deps.json
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\bin\Debug\net6.0\InfiCli.runtimeconfig.json
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\bin\Debug\net6.0\InfiCli.dll
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\bin\Debug\net6.0\InfiCli.pdb
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\InfiCli.csproj.AssemblyReference.cache
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\InfiCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\InfiCli.AssemblyInfoInputs.cache
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\InfiCli.AssemblyInfo.cs
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\InfiCli.csproj.CoreCompileInputs.cache
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\InfiCli.dll
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\refint\InfiCli.dll
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\InfiCli.pdb
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\InfiCli.genruntimeconfig.cache
+C:\Users\wdboer\Documents\dotnet\infi_project\InfiCli\obj\Debug\net6.0\ref\InfiCli.dll
